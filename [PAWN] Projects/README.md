@@ -1,0 +1,1 @@
+In this section is a game server developed by me based on GTA San-Andreas. The framework used is SA:MP (https://www.sa-mp.com/) and the programming language used is PAWN.

@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1610654244 source:c:\users\razvan-pc\desktop\biblisfinal\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<fstream>
+	"Rezolutie.h"
+	"coada.h"
+	"stiva.h"
+	"listasimplui.h"
+	"listadublui.h"
+
+1610584104 c:\users\razvan-pc\desktop\biblisfinal\rezolutie.h
+
+1610538360 c:\users\razvan-pc\desktop\biblisfinal\coada.h
+
+1610538359 c:\users\razvan-pc\desktop\biblisfinal\stiva.h
+
+1610585941 c:\users\razvan-pc\desktop\biblisfinal\listasimplui.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1610540674 c:\users\razvan-pc\desktop\biblisfinal\listadublui.h
+	<stack>
+
+1610654244 source:c:\users\razvan-pc\desktop\biblisfinal\biblis - proiect\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<fstream>
+	"Rezolutie.h"
+	"coada.h"
+	"stiva.h"
+	"listasimplui.h"
+	"listadublui.h"
+
+1610584104 c:\users\razvan-pc\desktop\biblisfinal\biblis - proiect\rezolutie.h
+
+1610538360 c:\users\razvan-pc\desktop\biblisfinal\biblis - proiect\coada.h
+
+1610538359 c:\users\razvan-pc\desktop\biblisfinal\biblis - proiect\stiva.h
+
+1610585941 c:\users\razvan-pc\desktop\biblisfinal\biblis - proiect\listasimplui.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1610540674 c:\users\razvan-pc\desktop\biblisfinal\biblis - proiect\listadublui.h
+	<stack>
+
+1615902261 source:c:\users\andrei\desktop\biblis-main\biblis - proiect\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<fstream>
+	"Rezolutie.h"
+	"coada.h"
+	"stiva.h"
+	"listasimplui.h"
+	"listadublui.h"
+
+1615902261 c:\users\andrei\desktop\biblis-main\biblis - proiect\rezolutie.h
+
+1615902261 c:\users\andrei\desktop\biblis-main\biblis - proiect\coada.h
+
+1615902261 c:\users\andrei\desktop\biblis-main\biblis - proiect\stiva.h
+
+1615902261 c:\users\andrei\desktop\biblis-main\biblis - proiect\listasimplui.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1615902261 c:\users\andrei\desktop\biblis-main\biblis - proiect\listadublui.h
+	<stack>
+

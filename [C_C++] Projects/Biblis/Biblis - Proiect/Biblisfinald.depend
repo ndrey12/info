@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1610386329 source:c:\users\yoala\desktop\graphics\proiect ip\biblis train\biblisfinal\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<fstream>
+	"Rezolutie.h"
+	"coada.h"
+	"stiva.h"
+	"listasimplui.h"
+	"listadublui.h"
+
+1610386311 c:\users\yoala\desktop\graphics\proiect ip\biblis train\biblisfinal\rezolutie.h
+
+1610362678 c:\users\yoala\desktop\graphics\proiect ip\biblis train\biblisfinal\coada.h
+
+1610307004 c:\users\yoala\desktop\graphics\proiect ip\biblis train\biblisfinal\stiva.h
+
+1610370563 c:\users\yoala\desktop\graphics\proiect ip\biblis train\biblisfinal\listasimplui.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1610307714 c:\users\yoala\desktop\graphics\proiect ip\biblis train\biblisfinal\listadublui.h
+	<stack>
+
+1610538856 source:c:\users\andrei\desktop\biblisfinal\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<fstream>
+	"Rezolutie.h"
+	"coada.h"
+	"stiva.h"
+	"listasimplui.h"
+	"listadublui.h"
+
+1610388359 c:\users\andrei\desktop\biblisfinal\rezolutie.h
+
+1610538360 c:\users\andrei\desktop\biblisfinal\coada.h
+
+1610538359 c:\users\andrei\desktop\biblisfinal\stiva.h
+
+1610538888 c:\users\andrei\desktop\biblisfinal\listasimplui.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1610538533 c:\users\andrei\desktop\biblisfinal\listadublui.h
+	<stack>
+
+1610654244 source:c:\users\razvan-pc\desktop\biblisfinal\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<fstream>
+	"Rezolutie.h"
+	"coada.h"
+	"stiva.h"
+	"listasimplui.h"
+	"listadublui.h"
+
+1610584104 c:\users\razvan-pc\desktop\biblisfinal\rezolutie.h
+
+1610538360 c:\users\razvan-pc\desktop\biblisfinal\coada.h
+
+1610538359 c:\users\razvan-pc\desktop\biblisfinal\stiva.h
+
+1610585941 c:\users\razvan-pc\desktop\biblisfinal\listasimplui.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1610540674 c:\users\razvan-pc\desktop\biblisfinal\listadublui.h
+	<stack>
+

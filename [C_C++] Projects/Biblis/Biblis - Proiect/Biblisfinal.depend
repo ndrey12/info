@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1610385498 source:c:\oji\codeblocks\proiect\biblisfinal\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<fstream>
+	"Rezolutie.h"
+	"coada.h"
+	"stiva.h"
+	"listasimplui.h"
+	"listadublui.h"
+
+1610362678 c:\oji\codeblocks\proiect\biblisfinal\coada.h
+
+1610307004 c:\oji\codeblocks\proiect\biblisfinal\stiva.h
+
+1610386311 c:\oji\codeblocks\proiect\biblisfinal\rezolutie.h
+
+1610385872 c:\oji\codeblocks\proiect\biblisfinal\listasimplui.h
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1610041687 c:\oji\codeblocks\proiect\biblisfinal\culori.h
+	<iostream>
+
+1610307714 c:\oji\codeblocks\proiect\biblisfinal\listadublui.h
+	<stack>
+
